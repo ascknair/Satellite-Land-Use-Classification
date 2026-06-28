@@ -1,4 +1,4 @@
-# Satellite Land-Use Classification using Deep Learning
+# Satellite Land-Use Classification
 
 ## Project Overview
 
