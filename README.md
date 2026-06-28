@@ -91,9 +91,9 @@ The models are evaluated using:
 
 | Model | Test Accuracy |
 |--------|--------------:|
-| Custom CNN | 89.19% |
-| MobileNetV2 | 88.05% |
-| EfficientNetB0 | **91.93%** |
+| Custom CNN | 89.70% |
+| MobileNetV2 | 86.12% |
+| EfficientNetB0 | **92.05%** |
 
 EfficientNetB0 achieved the highest overall classification performance on the EuroSAT RGB dataset.
 
