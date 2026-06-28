@@ -1,0 +1,4 @@
+Model,Training Accuracy (%),Validation Accuracy (%),Test Accuracy (%),Test Loss,Parameters
+Custom CNN,92.44,89.63,89.7,0.35,2194122
+MobileNetV2,85.22,86.94,86.12,0.44,2588490
+EfficientNetB0,90.21,92.25,92.05,0.23,4380077

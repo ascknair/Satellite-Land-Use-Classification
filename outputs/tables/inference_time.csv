@@ -1,0 +1,4 @@
+Model,Inference Time (ms/image)
+Custom CNN,78.62
+MobileNetV2,82.06
+EfficientNetB0,85.87

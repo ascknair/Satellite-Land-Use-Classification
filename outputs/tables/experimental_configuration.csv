@@ -1,0 +1,13 @@
+Parameter,Value
+Dataset,EuroSAT RGB
+Number of Classes,10
+Image Size,64 × 64
+Batch Size,32
+Training Epochs,30
+Optimizer,Adam
+Initial Learning Rate,0.001
+Loss Function,Sparse Categorical Crossentropy
+Evaluation Metrics,"Accuracy, Precision, Recall, F1-score"
+Framework,TensorFlow / Keras
+TensorFlow Version,2.19.0
+Hardware,NVIDIA Tesla T4 (2 GPUs)
